@@ -9,7 +9,7 @@ Hyderabad, India
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/madana-victor-vasanth">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/madanavictorvasanth/">LinkedIn</a> ·
 <a href="mailto:victorvasanthh@gmail.com">Email</a> ·
 <a href="https://github.com/victorvasanthh">GitHub</a>
 </p>
@@ -159,6 +159,6 @@ Areas I am actively building depth in:
 Open to engineering opportunities and collaboration in embedded systems,
 hardware validation, FPGA design, and edge machine learning.
 
-- **LinkedIn** — [madana-victor-vasanth](https://linkedin.com/in/madana-victor-vasanth)
+- **LinkedIn** — [linkedin.com/in/madanavictorvasanth](https://www.linkedin.com/in/madanavictorvasanth/)
 - **Email** — [victorvasanthh@gmail.com](mailto:victorvasanthh@gmail.com)
 - **GitHub** — [victorvasanthh](https://github.com/victorvasanthh)
