@@ -94,6 +94,19 @@ embedded resource limits.
 
 ---
 
+## Open Source & Collaborative Engineering
+
+### Project Dynamo
+Contributed to collaborative software engineering work involving Git, GitHub,
+issue tracking, pull requests, debugging, code review, and structured development
+workflows.
+
+### Team Development
+Worked in collaborative development environments with version-controlled code,
+peer review, debugging, and coordinated implementation.
+
+---
+
 ## Selected Repositories
 
 | Repository | Description |
@@ -143,8 +156,8 @@ Areas I am actively building depth in:
 
 ## Connect
 
-Open to work and collaboration in embedded systems, hardware validation, FPGA
-design, and edge machine learning.
+Open to engineering opportunities and collaboration in embedded systems,
+hardware validation, FPGA design, and edge machine learning.
 
 - **LinkedIn** — [madana-victor-vasanth](https://linkedin.com/in/madana-victor-vasanth)
 - **Email** — [victorvasanthh@gmail.com](mailto:victorvasanthh@gmail.com)
