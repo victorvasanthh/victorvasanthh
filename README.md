@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="victorvasanthh's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">Hey, I'm Madana Victor Vasanth</h1>
 
 <h3 align="center">Embedded Systems &amp; Machine Learning Engineer</h3>
